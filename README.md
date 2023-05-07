@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`for angular code.
-Run `npm run dev` inside web-scraping-server folder for nodejs server. Navigate to `http://localhost:4000/`.
+Run `npm run dev` inside web-scraping folder for nodejs server. Navigate to `http://localhost:4000/`.
 
 ## Code scaffolding
 
